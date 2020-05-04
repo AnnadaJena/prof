@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class App extends Component {
   render() {
     return (
-      <div>My Profile</div>
+      <div>My Profile updateds</div>
     );
   }
 }
