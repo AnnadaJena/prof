@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
 
-
-class App extends Component {
+export default class App extends Component {
   render() {
-    return (
-      <div>My Profile updateds</div>
-    );
+    return <div>Happy coding</div>;
   }
 }
-
-export default App;
